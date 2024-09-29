@@ -1,1 +1,3 @@
 # Anti-Afk
+its anti-afk bot for Leauge of Legends or different games like dota...
+if you wanna quit just press "q"
